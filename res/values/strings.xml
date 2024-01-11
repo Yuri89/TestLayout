@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- iphone_8_plus___1 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="___login___string">| Login |</string>
+	<string name="entrar_string">entrar</string>
+	<string name="esqueceu_a_senha__string">esqueceu a senha?</string>
+	<string name="senha_string">senha</string>
+	<string name="usuarios_string">usuarios</string>
+</resources>
